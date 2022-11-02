@@ -1,5 +1,9 @@
 This is a repository for the EDAV final project.
 
-The project explores the frequency, casualties and other details of the mass shooting that have occurred in the US between 2018 and 2022. The goal is to identify and calculate aggregated statistics surrounding casualties and explore if Covid has led to an increase in the number of mass shooting in the United States.
+The **goal of the project** is to use data and statistics regarding the mass shooting in the United States between 2018 and 2022, to:
+
+1.  Calculate the aggregated metrics to identify trends and patterns of casualties, number of shootings, etc. across different cities and states.
+
+2.  Observe the changes across the different years and explore if the pandemic has had an impact on the number and fatalities of mass shootings.
 
 *This repo was initially generated from a bookdown template available here: <https://github.com/jtr13/EDAVtemplate>.*
