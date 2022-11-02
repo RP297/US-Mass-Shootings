@@ -1,5 +1,5 @@
 --- 
-title: "Mass Shootings in the US 2014-2022"
+title: "Mass Shootings in the US 2018-2022"
 author: "Rohan Poddar"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site

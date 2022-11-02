@@ -2,5 +2,18 @@
 
 ## Research topic
 
+The goal of the project is to use data and statistics regarding the mass shooting in the United States between 2018 and 2022, to:
+
+1.  Calculate the aggregated metrics to identify trends and patterns of casualties, number of shootings, etc. across different cities and states.
+
+2.  Observe the changes across the different years and explore if the pandemic has had an impact on the number and fatalities of mass shootings.
+
 ## Data availability
 
+The Gun Violence Archive (GVA) is an online archive that collects and aggregates gun violence incidents (including mass shootings) from over 7,500 law enforcement, media, government and commercial sources daily and was formed in 2013. The archive provides near-real time updates regarding gun violence and also has gun violence related information since 2014.
+
+Since the GVA is a not for profit organization solely focused on "*documenting the incidents of gun violence and gun crime nationally to provide independent, verified data to those who need to use it in their research, advocacy or writing*", we can trust that the data is unbiased. Further, each incident in the database has a link to the source it was extracted from which further underscores the reliability of this data.
+
+The data-sets can be accessed on <https://www.gunviolencearchive.org/reports>
+
+The data can be exported as a CSV for different years. However, additional information about the incidents is not available in the CSV - it is present as a link to a different webpage on the website. So, we will be scraping the relevant information from the links to supplement the CSV files that we have.
